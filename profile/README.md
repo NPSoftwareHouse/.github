@@ -10,9 +10,6 @@
 
 ### Full Stack Development & AI Applications for SMEs
 
-Custom software and applied artificial intelligence,<br>
-built to become part of how a business runs, not to sit on the sidelines.
-
 <br>
 
 ![Full Stack Development](https://img.shields.io/badge/Full_Stack-Development-000000?style=for-the-badge)
@@ -23,85 +20,18 @@ built to become part of how a business runs, not to sit on the sidelines.
 
 <br>
 
-## About us
-
-**NP@Software** designs and builds web applications and AI solutions for small and medium-sized enterprises.
-We start from real processes, such as production, warehouse, quality and administration, and build tools people use every day,
-integrated with the systems the business already has.
-
-<br>
-
-## What we do
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Full Stack Development</h3>
-      <ul>
-        <li>Business web applications and internal portals</li>
-        <li>Dashboards and reporting on company data</li>
-        <li>Integration with existing ERP, MES and WMS</li>
-        <li>APIs, automation and data flows between systems</li>
-        <li>On-premise or cloud deployment, with monitoring</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>AI Applications</h3>
-      <ul>
-        <li>AI assistants over company documents and knowledge</li>
-        <li>Semantic search and RAG over archives and shared drives</li>
-        <li>Agents that query business systems in natural language</li>
-        <li>Data extraction from documents, OCR and transcription</li>
-        <li>Access control, permissions and a full audit trail</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-## How we work
-
-| | Phase | What happens |
-|:-:|---|---|
-| **01** | **Discovery** | We study the process on the ground, with the people who run it, and set measurable goals. |
-| **02** | **Prototype** | A first working version, delivered fast, to validate the idea on real data. |
-| **03** | **Development** | Clean, tested, documented code, with frequent and verifiable releases. |
-| **04** | **Launch & support** | Go-live, user training and long-term maintenance. |
-
-<br>
-
-## Principles
-
-> **Tailored, not adapted.** Every solution starts from the business's own process, not from a generic product bent to fit.
->
-> **Your data stays yours.** On-premise architectures when needed, with controlled and audited access.
->
-> **Integrate before replacing.** We build on existing systems instead of replacing them.
->
-> **Simplicity.** The most useful software is the software people actually use.
-
-<br>
-
 ## Tech stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white)
-<br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
+| Area | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=white) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-000000?style=for-the-badge&logo=reactquery&logoColor=white) ![Radix UI](https://img.shields.io/badge/Radix_UI-000000?style=for-the-badge&logo=radixui&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Data & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=for-the-badge&logo=qdrant&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-000000?style=for-the-badge&logo=minio&logoColor=white) |
+| **AI & LLM** | ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-000000?style=for-the-badge&logo=onnx&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-000000?style=for-the-badge) ![AI Agents](https://img.shields.io/badge/AI_Agents-000000?style=for-the-badge) |
+| **Infrastructure** | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) |
+| **DevOps** | ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white) ![uv](https://img.shields.io/badge/uv-000000?style=for-the-badge&logo=uv&logoColor=white) |
+| **Quality & Testing** | ![pytest](https://img.shields.io/badge/pytest-000000?style=for-the-badge&logo=pytest&logoColor=white) ![Vitest](https://img.shields.io/badge/Vitest-000000?style=for-the-badge&logo=vitest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-000000?style=for-the-badge) ![Ruff](https://img.shields.io/badge/Ruff-000000?style=for-the-badge&logo=ruff&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-000000?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-000000?style=for-the-badge&logo=prettier&logoColor=white) |
 
 <br>
 
