@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="894" viewBox="0 0 1200 894" role="img" aria-label="Tech stack. Languages: Python, TypeScript, JavaScript, PHP, Bash, SQL. Frontend: React, Vite, Tailwind CSS, TanStack Query, Radix UI. Backend: FastAPI, Pydantic, SQLAlchemy, Alembic, Node.js. Data &amp; Storage: PostgreSQL, Redis, Qdrant, MinIO. AI &amp; LLM: Claude, RAG, AI Agents, Embeddings, OCR, Hugging Face. Infrastructure: Docker, Nginx, Debian, Linux. DevOps: Git, GitHub Actions, uv, CI/CD. Quality &amp; Testing: pytest, Vitest, Playwright, Ruff, ESLint, Prettier">
+  
+  <defs>
+    <pattern id="s-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#09090B" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="s-fade" cx="0.9" cy="0.0447427293064877" r="0.75">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="s-mask"><rect width="1200" height="894" fill="url(#s-fade)"/></mask>
+    <radialGradient id="s-glow" cx="1080" cy="40" r="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#233568" stop-opacity="0.12"/>
+      <stop offset="0.45" stop-color="#233568" stop-opacity="0.041999999999999996"/>
+      <stop offset="1" stop-color="#233568" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="s-clip"><rect x="0.5" y="0.5" width="1199" height="893" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#s-clip)">
+    <rect width="1200" height="894" fill="#FFFFFF"/>
+    <rect width="1200" height="894" fill="url(#s-grid)" opacity="0.06" mask="url(#s-mask)"/>
+    <rect width="1200" height="894" fill="url(#s-glow)"/>
+    
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="893" rx="20" fill="none" stroke="#E4E4E7"/>
+  <text x="64" y="82" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3" fill="#A1A1AA">TECH STACK</text>
+  <text x="63" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#09090B">The tools behind our software</text>
+  <line x1="64" y1="150" x2="1136" y2="150" stroke="#EDEDF0"/>
+      <text x="64" y="191" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">01</text>
+      <text x="104" y="198" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">Languages</text>
+      <g><rect x="314" y="174" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="193" r="3.5" fill="#233568"/>
+        <text x="348" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Python</text></g>
+      <g><rect x="432.2" y="174" width="143" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="452.2" cy="193" r="3.5" fill="#233568"/>
+        <text x="466.2" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">TypeScript</text></g>
+      <g><rect x="585.2" y="174" width="143" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="605.2" cy="193" r="3.5" fill="#233568"/>
+        <text x="619.2" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">JavaScript</text></g>
+      <g><rect x="738.2" y="174" width="82.1" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="758.2" cy="193" r="3.5" fill="#233568"/>
+        <text x="772.2" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">PHP</text></g>
+      <g><rect x="830.3000000000001" y="174" width="90.8" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="850.3000000000001" cy="193" r="3.5" fill="#233568"/>
+        <text x="864.3000000000001" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Bash</text></g>
+      <g><rect x="931.1" y="174" width="82.1" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="951.1" cy="193" r="3.5" fill="#233568"/>
+        <text x="965.1" y="198" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">SQL</text></g>
+  <line x1="64" y1="236" x2="1136" y2="236" stroke="#EDEDF0"/>
+      <text x="64" y="277" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">02</text>
+      <text x="104" y="284" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">Frontend</text>
+      <g><rect x="314" y="260" width="99.5" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="279" r="3.5" fill="#233568"/>
+        <text x="348" y="284" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">React</text></g>
+      <g><rect x="423.5" y="260" width="90.8" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="443.5" cy="279" r="3.5" fill="#233568"/>
+        <text x="457.5" y="284" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Vite</text></g>
+      <g><rect x="524.3" y="260" width="160.39999999999998" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="544.3" cy="279" r="3.5" fill="#233568"/>
+        <text x="558.3" y="284" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Tailwind CSS</text></g>
+      <g><rect x="694.6999999999999" y="260" width="177.79999999999998" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="714.6999999999999" cy="279" r="3.5" fill="#233568"/>
+        <text x="728.6999999999999" y="284" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">TanStack Query</text></g>
+      <g><rect x="882.4999999999999" y="260" width="125.6" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="902.4999999999999" cy="279" r="3.5" fill="#233568"/>
+        <text x="916.4999999999999" y="284" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Radix UI</text></g>
+  <line x1="64" y1="322" x2="1136" y2="322" stroke="#EDEDF0"/>
+      <text x="64" y="363" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">03</text>
+      <text x="104" y="370" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">Backend</text>
+      <g><rect x="314" y="346" width="116.89999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="365" r="3.5" fill="#233568"/>
+        <text x="348" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">FastAPI</text></g>
+      <g><rect x="440.9" y="346" width="125.6" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="460.9" cy="365" r="3.5" fill="#233568"/>
+        <text x="474.9" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Pydantic</text></g>
+      <g><rect x="576.5" y="346" width="143" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="596.5" cy="365" r="3.5" fill="#233568"/>
+        <text x="610.5" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">SQLAlchemy</text></g>
+      <g><rect x="729.5" y="346" width="116.89999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="749.5" cy="365" r="3.5" fill="#233568"/>
+        <text x="763.5" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Alembic</text></g>
+      <g><rect x="856.4" y="346" width="116.89999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="876.4" cy="365" r="3.5" fill="#233568"/>
+        <text x="890.4" y="370" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Node.js</text></g>
+  <line x1="64" y1="408" x2="1136" y2="408" stroke="#EDEDF0"/>
+      <text x="64" y="449" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">04</text>
+      <text x="104" y="456" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">Data &amp; Storage</text>
+      <g><rect x="314" y="432" width="143" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="451" r="3.5" fill="#233568"/>
+        <text x="348" y="456" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">PostgreSQL</text></g>
+      <g><rect x="467" y="432" width="99.5" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="487" cy="451" r="3.5" fill="#233568"/>
+        <text x="501" y="456" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Redis</text></g>
+      <g><rect x="576.5" y="432" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="596.5" cy="451" r="3.5" fill="#233568"/>
+        <text x="610.5" y="456" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Qdrant</text></g>
+      <g><rect x="694.7" y="432" width="99.5" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="714.7" cy="451" r="3.5" fill="#233568"/>
+        <text x="728.7" y="456" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">MinIO</text></g>
+  <line x1="64" y1="494" x2="1136" y2="494" stroke="#EDEDF0"/>
+      <text x="64" y="535" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">05</text>
+      <text x="104" y="542" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">AI &amp; LLM</text>
+      <g><rect x="314" y="518" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="537" r="3.5" fill="#233568"/>
+        <text x="348" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Claude</text></g>
+      <g><rect x="432.2" y="518" width="82.1" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="452.2" cy="537" r="3.5" fill="#233568"/>
+        <text x="466.2" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">RAG</text></g>
+      <g><rect x="524.3" y="518" width="134.3" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="544.3" cy="537" r="3.5" fill="#233568"/>
+        <text x="558.3" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">AI Agents</text></g>
+      <g><rect x="668.5999999999999" y="518" width="143" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="688.5999999999999" cy="537" r="3.5" fill="#233568"/>
+        <text x="702.5999999999999" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Embeddings</text></g>
+      <g><rect x="821.5999999999999" y="518" width="82.1" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="841.5999999999999" cy="537" r="3.5" fill="#233568"/>
+        <text x="855.5999999999999" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">OCR</text></g>
+      <g><rect x="913.6999999999999" y="518" width="160.39999999999998" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="933.6999999999999" cy="537" r="3.5" fill="#233568"/>
+        <text x="947.6999999999999" y="542" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Hugging Face</text></g>
+  <line x1="64" y1="580" x2="1136" y2="580" stroke="#EDEDF0"/>
+      <text x="64" y="621" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">06</text>
+      <text x="104" y="628" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">Infrastructure</text>
+      <g><rect x="314" y="604" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="623" r="3.5" fill="#233568"/>
+        <text x="348" y="628" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Docker</text></g>
+      <g><rect x="432.2" y="604" width="99.5" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="452.2" cy="623" r="3.5" fill="#233568"/>
+        <text x="466.2" y="628" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Nginx</text></g>
+      <g><rect x="541.7" y="604" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="561.7" cy="623" r="3.5" fill="#233568"/>
+        <text x="575.7" y="628" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Debian</text></g>
+      <g><rect x="659.9000000000001" y="604" width="99.5" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="679.9000000000001" cy="623" r="3.5" fill="#233568"/>
+        <text x="693.9000000000001" y="628" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Linux</text></g>
+  <line x1="64" y1="666" x2="1136" y2="666" stroke="#EDEDF0"/>
+      <text x="64" y="707" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">07</text>
+      <text x="104" y="714" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">DevOps</text>
+      <g><rect x="314" y="690" width="82.1" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="709" r="3.5" fill="#233568"/>
+        <text x="348" y="714" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Git</text></g>
+      <g><rect x="406.1" y="690" width="177.79999999999998" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="426.1" cy="709" r="3.5" fill="#233568"/>
+        <text x="440.1" y="714" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">GitHub Actions</text></g>
+      <g><rect x="593.9" y="690" width="73.4" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="613.9" cy="709" r="3.5" fill="#233568"/>
+        <text x="627.9" y="714" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">uv</text></g>
+      <g><rect x="677.3" y="690" width="99.5" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="697.3" cy="709" r="3.5" fill="#233568"/>
+        <text x="711.3" y="714" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">CI/CD</text></g>
+  <line x1="64" y1="752" x2="1136" y2="752" stroke="#EDEDF0"/>
+      <text x="64" y="793" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#A1A1AA">08</text>
+      <text x="104" y="800" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#09090B">Quality &amp; Testing</text>
+      <g><rect x="314" y="776" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="334" cy="795" r="3.5" fill="#233568"/>
+        <text x="348" y="800" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">pytest</text></g>
+      <g><rect x="432.2" y="776" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="452.2" cy="795" r="3.5" fill="#233568"/>
+        <text x="466.2" y="800" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Vitest</text></g>
+      <g><rect x="550.4" y="776" width="143" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="570.4" cy="795" r="3.5" fill="#233568"/>
+        <text x="584.4" y="800" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Playwright</text></g>
+      <g><rect x="703.4" y="776" width="90.8" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="723.4" cy="795" r="3.5" fill="#233568"/>
+        <text x="737.4" y="800" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Ruff</text></g>
+      <g><rect x="804.1999999999999" y="776" width="108.19999999999999" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="824.1999999999999" cy="795" r="3.5" fill="#233568"/>
+        <text x="838.1999999999999" y="800" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">ESLint</text></g>
+      <g><rect x="922.3999999999999" y="776" width="125.6" height="38" rx="9" fill="#FFFFFF" stroke="#E4E4E7"/>
+        <circle cx="942.3999999999999" cy="795" r="3.5" fill="#233568"/>
+        <text x="956.3999999999999" y="800" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#09090B">Prettier</text></g>
+  <line x1="64" y1="838" x2="1136" y2="838" stroke="#EDEDF0"/>
+</svg>

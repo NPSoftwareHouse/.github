@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="NP@Software: Full Stack Development and AI Applications for SMEs">
+  
+  <defs>
+    <pattern id="b-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#09090B" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="b-fade" cx="0.12356548248472904" cy="0.5" r="0.75">
+      <stop offset="0" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="b-mask"><rect width="1200" height="360" fill="url(#b-fade)"/></mask>
+    <radialGradient id="b-glow" cx="148.27857898167485" cy="180" r="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#233568" stop-opacity="0.12"/>
+      <stop offset="0.45" stop-color="#233568" stop-opacity="0.041999999999999996"/>
+      <stop offset="1" stop-color="#233568" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="b-clip"><rect x="0.5" y="0.5" width="1199" height="359" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#b-clip)">
+    <rect width="1200" height="360" fill="#FFFFFF"/>
+    <rect width="1200" height="360" fill="url(#b-grid)" opacity="0.06" mask="url(#b-mask)"/>
+    <rect width="1200" height="360" fill="url(#b-glow)"/>
+    <defs>
+      <linearGradient id="wm-fade" x1="830" y1="0" x2="1203.153107981797" y2="0" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+        <stop offset="0.55" stop-color="#fff" stop-opacity="1"/>
+      </linearGradient>
+      <mask id="wm-mask"><rect x="830" y="-40" width="373.15310798179684" height="520" fill="url(#wm-fade)"/></mask>
+    </defs>
+    <g mask="url(#wm-mask)" opacity="0.16">
+      <svg x="830" y="-40" width="373.15310798179684" height="520" viewBox="10244.22 3307.58 9588.98 13362.53" fill="none" stroke="#09090B" stroke-width="32.12146634615385">
+        <path d="M12352.43 8675.05l0 7321.63 -2108.21 0 0 -12688.92c2505.64,2703.74 9588.98,10386.12 9588.98,10386.12l0 2976.23c-2499.5,-2696.37 -4966.36,-5357.47 -7433.05,-8018.57 -15.44,8.07 -31.58,15.44 -47.72,23.51z"/><path d="M18644.95 9612.04c656.24,0 1187.9,-531.66 1187.9,-1187.9 0,-141.78 -24.74,-277.24 -69.84,-402.87l-1118.06 -4713.69 -1117.89 4713.69c-45.09,125.63 -69.83,261.09 -69.83,402.87 0,656.24 531.66,1187.9 1187.72,1187.9z"/>
+      </svg>
+    </g>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="359" rx="20" fill="none" stroke="#E4E4E7"/>
+  <svg x="88" y="96" width="120.55715796334974" height="168" viewBox="10244.22 3307.58 9588.98 13362.53" fill="#09090B">
+    <path d="M12352.43 8675.05l0 7321.63 -2108.21 0 0 -12688.92c2505.64,2703.74 9588.98,10386.12 9588.98,10386.12l0 2976.23c-2499.5,-2696.37 -4966.36,-5357.47 -7433.05,-8018.57 -15.44,8.07 -31.58,15.44 -47.72,23.51z"/>
+    <path d="M18644.95 9612.04c656.24,0 1187.9,-531.66 1187.9,-1187.9 0,-141.78 -24.74,-277.24 -69.84,-402.87l-1118.06 -4713.69 -1117.89 4713.69c-45.09,125.63 -69.83,261.09 -69.83,402.87 0,656.24 531.66,1187.9 1187.72,1187.9z"/>
+  </svg>
+  <line x1="246.5571579633497" y1="104" x2="246.5571579633497" y2="256" stroke="#E4E4E7"/>
+  <text x="284.5571579633497" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" letter-spacing="3" fill="#A1A1AA">SOFTWARE HOUSE</text>
+  <text x="281.5571579633497" y="178" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="-2" fill="#09090B">NP<tspan fill="#A1A1AA" font-weight="400">@</tspan>Software</text>
+  <text x="284.5571579633497" y="220" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="23" fill="#52525B">Full Stack Development &amp; AI Applications for SMEs</text>
+  <g><rect x="284.5571579633497" y="246" width="112" height="30" rx="15" fill="none" stroke="#E4E4E7"/>
+      <text x="340.5571579633497" y="265.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.2" fill="#52525B">FULL STACK</text></g>
+    <g><rect x="406.5571579633497" y="246" width="153" height="30" rx="15" fill="none" stroke="#E4E4E7"/>
+      <text x="483.0571579633497" y="265.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.2" fill="#52525B">AI APPLICATIONS</text></g>
+    <g><rect x="569.5571579633497" y="246" width="144.79999999999998" height="30" rx="15" fill="none" stroke="#E4E4E7"/>
+      <text x="641.9571579633497" y="265.5" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1.2" fill="#52525B">BUILT FOR SMEs</text></g>
+  <text x="1160" y="328" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="1" fill="#A1A1AA">github.com/NPSoftwareHouse</text>
+</svg>
