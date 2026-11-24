@@ -13,9 +13,9 @@ Full Stack Development & AI Applications for SMEs
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,php,react,vite,tailwind,nodejs,fastapi,postgres,redis,docker,nginx,debian,git,githubactions&perline=8&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,php,react,vite,tailwind,nodejs,fastapi,postgres,redis,docker,nginx,debian,git,githubactions&perline=8&theme=light">
-  <img alt="Python, TypeScript, JavaScript, PHP, React, Vite, Tailwind CSS, Node.js, FastAPI, PostgreSQL, Redis, Docker, Nginx, Debian, Git, GitHub Actions" src="https://skillicons.dev/icons?i=py,ts,js,php,react,vite,tailwind,nodejs,fastapi,postgres,redis,docker,nginx,debian,git,githubactions&perline=8&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cphp%2Creact%2Cvite%2Ctailwind%2Cnodejs%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cnginx%2Cdebian%2Cgit%2Cgithubactions&perline=8&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cphp%2Creact%2Cvite%2Ctailwind%2Cnodejs%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cnginx%2Cdebian%2Cgit%2Cgithubactions&perline=8&theme=light">
+  <img alt="Python, TypeScript, JavaScript, PHP, React, Vite, Tailwind CSS, Node.js, FastAPI, PostgreSQL, Redis, Docker, Nginx, Debian, Git, GitHub Actions" src="https://skillicons.dev/icons?i=py%2Cts%2Cjs%2Cphp%2Creact%2Cvite%2Ctailwind%2Cnodejs%2Cfastapi%2Cpostgres%2Credis%2Cdocker%2Cnginx%2Cdebian%2Cgit%2Cgithubactions&perline=8&theme=light">
 </picture>
 
 </div>
